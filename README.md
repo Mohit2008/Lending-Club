@@ -1,5 +1,7 @@
 # Lending-Club
 
+This Project was developed as a part of STAT 542 Practical Statistical Learning at University of Illinois, Urbana-Champaign.
+
 We have been provided with the historical loan data from Lending club . The dataset recorded categorical target variable hence posed a Supervised Classification problem. We worked on the filtered dataset that was provided to us from the staff members that contain only 30 features and 3 target classes( Default, Charged Off, Fully Paid).
 
 ## Programming Language:
@@ -32,7 +34,7 @@ The dataset comes from the following Kaggle competition https://www.kaggle.com/w
 
 ## Results:
 
-The evaluation metric wasd Log-Loss:
+The evaluation metric was Log-Loss:
 
 model1    0.448233
 model2    0.454100
